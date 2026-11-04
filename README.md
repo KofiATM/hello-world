@@ -1,1 +1,1 @@
-This my first GitHub repository
+Learning how to use GitHub branches and pull request
